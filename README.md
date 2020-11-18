@@ -1,12 +1,9 @@
-# altweltkrieg
-mod for hoi4
+# Altweltkrieg - WORK IN PROGRESS
+Mod for Hearts of Iron 4
 
-#################################################
-This mod have been created by adam077x and Hunter
-By installing mod you agree with not interfering
-in any code from this mod files. 
+## Description
+This mod was created by Hunter and adam077x.\
+AltWeltkrieg is about alternative history where Germany won WW1 and embraced its European hegemony.
 
-Mod lore: 
-AltWeltkrieg is about world where Germany (now 
-GrossDeutsches Reich) won in WW1 and embraced
-its European hegemony.
+## License
+By downloading this you must accept that you will not take full credit for this mod. You can interfere with the code, but you must always give credit back to the original authors and this github page.

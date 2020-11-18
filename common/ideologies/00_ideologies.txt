@@ -236,7 +236,12 @@ ideologies = {
 		monarchism = {
 	
 		types = {
-			absolutism {
+
+			absolutism = {
+
+			}
+
+			parliamantery_monarchism = {
 
 			}
 		}
@@ -249,7 +254,7 @@ ideologies = {
 			"FACTION_NAME_MONARCHIST_5"
 		}
 		
-		color = { 255 0 255 }
+		color = { 46 5 5 }
 		
 		
 		war_impact_on_world_tension = 0.25		#no major danger
@@ -258,7 +263,7 @@ ideologies = {
 		rules = {
 			can_force_government = no
 			can_puppet = yes
-			can_send_volunteers = no
+			can_send_volunteers = yes
 		}
 		
 		modifiers = {

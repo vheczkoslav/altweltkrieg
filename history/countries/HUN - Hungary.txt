@@ -143,16 +143,30 @@ if = {
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = monarchism
 	last_election = "1935.3.31"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
 	democratic = 25
-	fascism = 31
-	neutrality = 44
+	communism = 11
+	fascism = 20
+	monarchism = 44
 }
+
+	create_country_leader = {
+		name = "Miklós Horthy"
+		desc = "POLITICS_MIKLOS_HORTHY_DESC"
+		picture = "Portrait_Hungary_Miklos_Horthy.dds"
+		expire = "1965.1.1"
+		ideology = absolutism
+		traits = {
+			fascist_sympathies
+			anti_communist
+		}
+		id = 500 #Horthy Neutral
+	}
 
 #Start Horty as neutral if DOD
 if = {

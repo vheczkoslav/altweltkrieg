@@ -9,6 +9,11 @@ set_autonomy = {
 	autonomous_state = autonomy_integrated_puppet
 }
 
+set_autonomy = {
+	target = YUG
+	autonomous_state = autonomy_integrated_puppet
+}
+
 set_technology = {
 	infantry_weapons = 1
 	infantry_weapons1 = 1

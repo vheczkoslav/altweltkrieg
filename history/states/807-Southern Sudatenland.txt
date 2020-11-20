@@ -1,7 +1,7 @@
 state=
 {
 	id=807
-	name="Southern Sudetenland"
+	name="STATE_807"
 	manpower = 1400000
 	
 	state_category = town

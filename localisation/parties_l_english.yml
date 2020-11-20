@@ -1,5 +1,8 @@
 ﻿l_english:
  monarchism:0 "Monarchist" #Monarchisti CUSTOM
+ monarchism_noun:0 "Monarchism"
+ absolutism:0 "Absolutism"
+ absolutism_desc:0 "Absolutism is embracing the endless authority of the ruler. It makes ruler the god on the earth with almost endless power. The word of the ruler is the law."
  communism:0 "Communist"
  communism_noun:0 "Communism"
  democratic:0 "Democratic"

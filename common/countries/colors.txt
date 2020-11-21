@@ -10,7 +10,7 @@ ENG = {
 }
 SOV = {
 	color = rgb { 125 13 24 }
-	color_ui = rgb { 163 17 31 }
+	color_ui = rgb { 255 17 31 }
 }
 SWE = {
 	color = rgb { 36 132 247 }
@@ -66,8 +66,8 @@ ROM = {
 	color_ui = rgb { 255 255 120 }
 }
 YUG = {
-	color = rgb { 72 73 126 }
-	color_ui = rgb { 94 95 164 }
+	color = rgb { 194 198 215 }
+	color_ui = rgb { 255 255 255 }
 }
 SWI = {
 	color = rgb { 224 5 5 }

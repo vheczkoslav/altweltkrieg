@@ -9,7 +9,7 @@ state={
 	state_category = large_city
 	
 	history={
-		owner = AUS
+		owner = CZE
 		victory_points = { 11542 30 }
 		victory_points = { 6418 5 }
 		victory_points = { 9569 5 }

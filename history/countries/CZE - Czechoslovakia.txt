@@ -25,7 +25,7 @@ set_politics = {
 	ruling_party = monarchism
 	last_election = "1935.5.19"
 	election_frequency = 60
-	elections_allowed = yes
+	elections_allowed = no
 }
 
 set_popularities = {
@@ -73,7 +73,7 @@ create_country_leader = {
 	desc = "POLITICS_EDVARD_BENES_DESC"
 	picture = "Portrait_Czech_Edvard_Benes.dds"
 	expire = "1965.1.1"
-	ideology = parliamantery_monarchism
+	ideology = absolutism
 	traits = {
 		#
 	}

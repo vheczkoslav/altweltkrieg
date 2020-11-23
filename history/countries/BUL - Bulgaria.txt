@@ -486,11 +486,12 @@ set_technology = { #VANILLA & DLC
 	#POLIICS
 	set_popularities = { #VANILLA & DLC
 		democratic = 5
-		fascism = 35
-		neutrality = 60
+		fascism = 5
+		neutrality = 30
+		monarchism = 60
 	}
 	set_politics = { #VANILLA & DLC
-		ruling_party = neutrality
+		ruling_party = monarchism
 		last_election = "1938.3.27"
 		election_frequency = 48
 		elections_allowed = no

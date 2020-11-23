@@ -60,7 +60,7 @@ create_country_leader = {
 	name = "IDK SOMEKIND OF AUSTRIAN LEADER"
 	desc = "POLITICS_KURT_SCHUSCHNIGG_DESC"
 	picture = "Portrait_Austria_Kurt_Schuschnigg.dds"
-	expire = "19.1.1"
+	expire = "1940.1.1"
 	ideology = absolutism
 	traits = {
 		#

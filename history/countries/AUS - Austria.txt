@@ -57,9 +57,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "IDK SOMEKIND OF AUSTRIAN LEADER"
+	name = "Archduke Franz Ferdinand of Austria"
 	desc = "POLITICS_KURT_SCHUSCHNIGG_DESC"
-	picture = "Portrait_Austria_Kurt_Schuschnigg.dds"
+	picture = "Portrait_Austria_Archduke_Franz_Ferdinand.dds"
 	expire = "1940.1.1"
 	ideology = absolutism
 	traits = {

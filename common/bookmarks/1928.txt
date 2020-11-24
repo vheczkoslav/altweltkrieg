@@ -242,7 +242,7 @@ bookmarks = {
 		"CZE"={
 			minor = yes
 			history = "CZE_GATHERING_STORM_DESC"
-			ideology = monarchism
+			ideology = democratic
 			ideas = {
 				CZE_skoda_works
 				CZE_divided_nation
@@ -481,7 +481,7 @@ bookmarks = {
 		"BUL"={
 			minor = yes
 			history = "BUL_GATHERING_STORM_DESC"
-			ideology = monarchism
+			ideology = democratic
 			ideas = {
 				BUL_second_national_catastrophe
 				BUL_army_restrictions

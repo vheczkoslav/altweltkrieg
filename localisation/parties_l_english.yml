@@ -1,8 +1,11 @@
 ﻿l_english:
  monarchism:0 "Monarchist" #Monarchisti CUSTOM
  monarchism_noun:0 "Monarchism"
+ monarchism_desc:0 "Monarchist regime"
  absolutism:0 "Absolutism"
  absolutism_desc:0 "Absolutism is embracing the endless authority of the ruler. It makes ruler the god on the earth with almost endless power. The word of the ruler is the law."
+ parliamantery_monarchism:0 "Parliamantery monarchism"
+ parliamantery_monarchism_desc:0 "Description work in progress"
  syndicalism:0 "Syndicalism"
  syndicalism_desc:0 "Syndicalism is trade unionist movement"
  communism:0 "Communist"
@@ -100,6 +103,7 @@
  AUS_democratic_party_long:0 "Sozialdemokratische Partei Österreichs"
  AUS_fascism_party:1 "DNSAP"
  AUS_neutrality_party:1 "Vaterländische Front"
+ AUS_monarchism_party:1 "Deutscher Nationalverband" ##Neni to sice monarchisticka strana ale co
  CHI_communism_party:0 "CPC"
  CHI_communism_party_long:0 "Communist Party of China"
  CHI_democratic_party:0 "China Democratic League"

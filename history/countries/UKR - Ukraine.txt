@@ -117,5 +117,5 @@ create_country_leader = {
 #	}
 #}
 
-UKR = { puppet = GER }
+GER = { puppet = UKR }
 

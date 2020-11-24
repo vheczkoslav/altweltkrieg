@@ -302,7 +302,7 @@ set_popularities = {
 	communism = 10
 }
 
-create_faction = "Central Powers"
+create_faction = "Mittle-Europa"
 add_to_faction = GER
 
 

@@ -481,16 +481,16 @@ set_technology = { #VANILLA & DLC
 ##############
 #### 1939 ####
 ##############
-1939.1.1 = {
+1928.1.1 = {
 	
 	#POLIICS
-	set_popularities = { #VANILLA & DLC
+	set_popularities = { 
 		democratic = 5
 		fascism = 5
 		neutrality = 30
 		monarchism = 60
 	}
-	set_politics = { #VANILLA & DLC
+	set_politics = { 
 		ruling_party = monarchism
 		last_election = "1938.3.27"
 		election_frequency = 48

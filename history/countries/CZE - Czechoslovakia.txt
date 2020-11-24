@@ -23,7 +23,7 @@ set_research_slots = 3
 
 set_politics = {
 	ruling_party = monarchism
-	last_election = "1935.5.19"
+	last_election = "1888.5.19"
 	election_frequency = 60
 	elections_allowed = no
 }
@@ -31,9 +31,11 @@ set_politics = {
 set_popularities = {
 	democratic = 15
 	fascism = 15
-	communism = 10
 	monarchism = 60
+	communism = 10
 }
+
+CZE = { puppet = AUS }
 
 create_country_leader = {
 	name = "Edvard Beneš"

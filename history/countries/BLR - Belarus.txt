@@ -4,8 +4,10 @@ oob = "BLR_1936"
 
 set_research_slots = 3
 
+GER = { puppet = BLR }
+
 set_politics = {
-	ruling_party = fascism
+	ruling_party = monarchism
 	last_election = "1930.11.9"
 	election_frequency = 48
 	elections_allowed = no
@@ -68,10 +70,10 @@ if = {
 }
 
 set_popularities = {
-	democratic = 15
-	neutrality = 20
+	neutrality = 15
+	fascism = 20
 	communism = 15
-	fascism = 50
+	monarchism = 50
 }
 
 create_country_leader = {

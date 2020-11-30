@@ -221,21 +221,32 @@ set_popularities = {
 	neutrality = 60
 }
 
-1939.1.1 = {
+1928.1.1 = {
 	set_politics = {
-		ruling_party = neutrality
-		last_election = "1938.12.1"
+		ruling_party = monarchism
+		last_election = "1926.12.1"
 		election_frequency = 36
-		elections_allowed = yes
+		elections_allowed = no
 	}
 	set_popularities = {
 		democratic = 10
 		fascism = 20
 		communism = 10
-		neutrality = 60
+		monarchism = 60
 	}
 }
-set_stability = 0.6
+set_stability = 0.7
+
+create_country_leader = {
+	name = "CHANGE NAME"
+	desc = "POLITICS_PRINCE_PAUL_DESC"
+	picture = "Portrait_Yugoslavia_Prince_Paul.dds"
+	expire = "1945.1.1"
+	ideology = parliamantery_monarchism
+	traits = {
+		#
+	}
+}
 
 create_country_leader = {
 	name = "Prince Paul"

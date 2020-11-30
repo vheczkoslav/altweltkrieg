@@ -4,4 +4,4 @@ tags={
 	"Alternative History"
 }
 name="AltWeltkrieg"
-supported_version="1.10.2"
+supported_version="1.10.*"

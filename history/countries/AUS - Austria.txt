@@ -14,11 +14,6 @@ set_autonomy = {
 	autonomous_state = autonomy_integrated_puppet
 }
 
-set_autonomy = {
-	target = GAL
-	autonomous_state = autonomy_integrated_puppet
-}
-
 set_technology = {
 	infantry_weapons = 1
 	infantry_weapons1 = 1
@@ -37,11 +32,14 @@ set_politics = {
 }
 
 set_popularities = {
-	neutrality = 48
-	monarchism = 50
-	democratic = 1
-	communism = 1
+	fascism = 20
+	monarchism = 70
+	democratic = 5
+	communism = 5
 }
+
+create_faction = "United Austria"
+add_to_faction = AUS
 
 set_stability = 0.50
 

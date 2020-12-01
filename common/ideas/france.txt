@@ -1,0 +1,21 @@
+ideas = {
+
+	country = {
+		ww1_aftermath = {
+			picture = generic_local_self_management
+			name = ww1_aftermath
+			allowed = {
+				original_tag = FRA
+				always = no
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				industrial_capacity_factory = -0.25
+				industrial_capacity_dockyard = -0.25
+				consumer_goods_factor = 0.1
+			}
+		}
+	}	
+}

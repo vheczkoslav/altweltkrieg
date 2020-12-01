@@ -499,6 +499,17 @@ set_technology = { #VANILLA & DLC
 
 	add_political_power = 1198
 
+	create_country_leader = { 
+			name = "Boris III"
+			desc = "POLITICS_BORIS_III_DESC"
+			picture = "Portrait_Bulgaria_Boris_III_mon.dds"
+			expire = "1965.1.1"
+			ideology = parliamantery_monarchism
+			traits = {
+				#
+			}
+		}
+
 	#FOCUS AND IDEAS
 	if = { #DLC
 		limit = {

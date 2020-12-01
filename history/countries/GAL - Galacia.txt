@@ -34,6 +34,17 @@ set_popularities = {
 set_stability = 0.50
 
 create_country_leader = {
+	name = "Karl Georg Huyn"
+	desc = "POLITICS_KURT_SCHUSCHNIGG_DESC" #CHANGE LATER
+	picture = "Portrait_Karl_Georg_Huyn.dds"
+	expire = "1965.1.1"
+	ideology = absolutism
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
 	name = "Kurt Schuschnigg"
 	desc = "POLITICS_KURT_SCHUSCHNIGG_DESC"
 	picture = "Portrait_Austria_Kurt_Schuschnigg.dds"

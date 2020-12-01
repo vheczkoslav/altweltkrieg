@@ -247,6 +247,9 @@ ideologies = {
 			parliamantery_monarchism = {
 
 			}
+
+			constitutionary_monarchism = {
+			}
 		}
 
 		dynamic_faction_names = {

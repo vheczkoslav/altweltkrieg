@@ -1,0 +1,19 @@
+	spriteType = {
+		name = "GFX_germanisation_category_template"
+		texturefile = "gfx/interface/decisions/germanisation_category_image_template.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_germanisation_category_icon"
+		texturefile = "gfx/interface/decisions/germanisation_icon_template.dds"
+	}
+		spriteType = {
+		name = "GFX_germanisation_decision_UKR_icon"
+		texturefile = "gfx/interface/decisions/germanisation_decision_UKR_icon_default.dds"
+	}
+	
+		spriteType = {
+		name = "GFX_germanisation_decision_POL_icon"
+		texturefile = "gfx/interface/decisions/germanisation_decision_POL_icon_default.dds"
+	}
+	

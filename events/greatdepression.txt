@@ -1,0 +1,25 @@
+add_namespace = depression
+
+country_event = {
+	id = depression.1
+	title = depression.1.t
+	desc = depression.1.d
+	picture = GFX_report_event_japanese_transport_soldiers
+	
+	is_triggered_only = no
+	
+    trigger = {
+        AND = {
+            date > 1929.02.10
+            date < 1929.03.01
+        }
+    }
+
+    mean_time_to_happen = {days = 7}
+
+	option = {
+		name = Concerning
+		ai_chance = { factor = 100 }
+        add_ideas = great_depression
+	}
+}

@@ -19,6 +19,8 @@
  banned_communism_flag:0 "Has banned communist parties"
  ####MOD WRITE UNDER THIS !
  germanisation_category:0 "Germanisation"
- germanisation_category_picture_desc:0 "Germanisation is a process of cultural assimilation by the Weltreich."
+ germanisation_category_desc:0 "Germanisation is a process of cultural assimilation by the Weltreich. Welreich is supporting long-term projects of germanisation of their minorities (mostly Poles, Lithuanians and French people)."
  germanisation_decision_UKR:0 "Germanisation of Ukraine"
+ germanisation_decision_UKR:0 "Slow process of replacing slavic culture by the german one."
  germanisation_decision_POL:0 "Germanisation of Poland"
+ germanisation_decision_POL:0 "Slow process of replacing slavic culture by the german one."

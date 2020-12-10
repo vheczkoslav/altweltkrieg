@@ -1748,30 +1748,34 @@ germanisation_category = {
 	germanisation_decision_UKR = {
 icon = GFX_germanisation_decision_UKR_icon
 available = {
+UKR = {is_puppet_of = GER}
 }
 
 fire_only_once = no
-days_re_enable = 10
+days_re_enable = 2
 
 cost = 25
 
 complete_effect = {
-
+UKR = {add_manpower = -15000}
+UKR = {add_stability = -0.1}
 }
 
 	}
 		germanisation_decision_POL = {
 icon = GFX_germanisation_decision_POL_icon
 available = {
+POL = {is_puppet_of = GER}
 }
 
 fire_only_once = no
-days_re_enable = 10
+days_re_enable = 2
 
 cost = 25
 
 complete_effect = {
-
+POL = {add_manpower = -15000}
+POL = {add_stability = -0.1}
 }
 
 	}

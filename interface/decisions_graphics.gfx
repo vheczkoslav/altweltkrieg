@@ -1,3 +1,4 @@
+SpriteTypes = {
 	spriteType = {
 		name = "GFX_germanisation_category_template"
 		texturefile = "gfx/interface/decisions/germanisation_category_image_template.dds"
@@ -16,4 +17,4 @@
 		name = "GFX_germanisation_decision_POL_icon"
 		texturefile = "gfx/interface/decisions/germanisation_decision_POL_icon_default.dds"
 	}
-	
+}	

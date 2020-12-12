@@ -1749,6 +1749,15 @@ germanisation_category = {
 icon = GFX_germanisation_decision_UKR_icon
 available = {
 UKR = {is_puppet_of = GER}
+custom_trigger_tooltip = {
+tooltip = germanisation.tooltip
+	check_variable = {
+		var = var_germanisation_UKR
+		value = 1
+		compare = less_than_or_equals
+		}
+	}
+}
 }
 
 fire_only_once = no
@@ -1758,7 +1767,11 @@ cost = 25
 
 complete_effect = {
 UKR = {add_manpower = -15000}
-UKR = {add_stability = -0.1}
+UKR = {add_stability = -0.02}
+add_to_variable = {
+	var = var_germanisation_UKR
+	value = 0.01
+	}
 }
 
 	}
@@ -1766,6 +1779,14 @@ UKR = {add_stability = -0.1}
 icon = GFX_germanisation_decision_POL_icon
 available = {
 POL = {is_puppet_of = GER}
+custom_trigger_tooltip = {
+tooltip = germanisation.tooltip
+	check_variable = {
+		var = var_germanisation_POL
+		value = 1
+		compare = less_than_or_equals
+		}
+	}
 }
 
 fire_only_once = no
@@ -1775,8 +1796,12 @@ cost = 25
 
 complete_effect = {
 POL = {add_manpower = -15000}
-POL = {add_stability = -0.1}
-}
+POL = {add_stability = -0.02}
+add_to_variable = {
+	var = var_germanisation_POL
+	value = 0.01
+		}
+	}
 
 	}
 }

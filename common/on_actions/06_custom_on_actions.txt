@@ -1,0 +1,9 @@
+on_actions = {
+    on_startup = {
+        effect = {
+            GER = {
+                news_event = { id = lore.0 days = 3 }
+            }
+        }
+    }
+}

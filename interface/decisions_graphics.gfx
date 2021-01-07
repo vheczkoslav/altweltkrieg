@@ -17,4 +17,9 @@ SpriteTypes = {
 		name = "GFX_germanisation_decision_POL_icon"
 		texturefile = "gfx/interface/decisions/germanisation_decision_POL_icon_default.dds"
 	}
+		spriteType = {
+		name = "GFX_germanisation_decision_POL_annexation_by_GER"
+		texturefile = "gfx/interface/decisions/germanisation_decision_POL_icon_default.dds"
+		
+		}
 }	

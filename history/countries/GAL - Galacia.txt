@@ -1,4 +1,4 @@
-﻿capital = 9427
+﻿capital = 88
 
 oob = "GAL_1936"
 

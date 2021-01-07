@@ -1,0 +1,27 @@
+add_namespace = lore
+
+news_event = {
+	id = lore.0
+	picture = GFX_lore_news_event
+	desc = lore.description
+	
+	major = yes # Optional : if set to "yes" every country in the world will see this event
+
+	is_triggered_only = no # Optional : if set to "yes" the event will only occur by command
+
+	hidden = no # Optional : if set to "yes" no one will see the event
+
+	fire_only_once = yes # Optional : if set to "yes" the event will never occur more than once
+	
+	option = { # This is an example of an option that has no function
+		name = lore_news_option.1.a # The localisable text that appears on the button.
+			add_manpower = 100
+	}
+        option = { # This is an example of an option that has a function ( usually not done on a news event )
+		name = lore_news_option.1.b # The localisable text that appears on the button.
+                add_political_power = -50
+				add_stability = -0.05
+				add_war_support = -0.05
+	}
+	
+}

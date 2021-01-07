@@ -1,0 +1,8 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "GFX_lore_news_event"
+		texturefile = "gfx/event_pictures/report_event_canada_ronnie.dds"
+	}
+	
+}
